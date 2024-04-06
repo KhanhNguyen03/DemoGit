@@ -1,3 +1,6 @@
 git init: khoi tao local repository
 git add <tenfile>,git add .: dua cac thay doi cus file vao trong vung nho staging area
+git commit -m "ghi chú gì đó " : dua cac thay doi tu staging area vao trong local repo và lưu lại 1 snapshot tại thời điểm đó
+git remote (copy trong git hub):để kết nối local repository với remote repository
+git push :đẩy các thay đổi từ local lên remote
 
